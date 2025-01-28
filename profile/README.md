@@ -4,7 +4,7 @@ Cyberdyne Labs is a group of longtime security researchers and data scientists a
 
 PREDICTIONS contains the output of a model predicting which CVEs are going to become 'hot' and get added to one or more watchlists. 
 
-SKYNET is a project where we are taking a new approach to the twin problems of 1) alert fatigue and 2) signal / noise or "false positives." We also have found a better way to integrate ML and AI tooling with conventional detections. We did a release at DEF CON 2024, presented twice at Blackhat MEA, and are continuing to present at cons.
+If you're looking for the thing we presented at DEF CON, SKYNET is a project where we are taking a new approach to the twin problems of 1) alert fatigue and 2) signal / noise or "false positives." We also have found a better way to integrate ML and AI tooling with conventional detections. We did a release at DEF CON 2024, presented twice at Blackhat MEA, and are continuing to present at cons.
 
 DUNE is a project for applying machine learning to threat hunting and detection with an initial focus on exfiltration. Most of the tools in there are FOSS but not all (we have dashboards for some popular products in addition to notebooks.)
 
