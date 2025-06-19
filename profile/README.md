@@ -2,7 +2,7 @@
 
 Cyberdyne Labs is a group of longtime security researchers and data scientists active in the research community. Most of us are veterans of security product companies and startups you may have heard of. Whenever we have some time, we start building. This year we have a few projects underway:
 
-PREDICTIONS contains the output of a model predicting which CVEs are going to become 'hot' and get added to one or more watchlists. 
+CAUSALITY contains the output of a model predicting which CVEs are going to become 'hot' and get added to one or more watchlists. 
 
 If you're looking for the thing we presented at DEF CON, SKYNET is a project where we are taking a new approach to the twin problems of 1) alert fatigue and 2) signal / noise or "false positives." We also have found a better way to integrate ML and AI tooling with conventional detections. We did a release at DEF CON 2024, presented twice at Blackhat MEA, and are continuing to present at cons.
 
