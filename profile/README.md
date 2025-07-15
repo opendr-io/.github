@@ -10,4 +10,6 @@ If you're looking for the thing we presented at DEF CON / BLACKHAT, [PROTOSTAR](
 
 If you're looking for the ML based cloud persistence and exfiltration hunting project presented at RSA, [DUNE](https://github.com/opendr-io/dune) is a project for applying machine learning to threat hunting and detection with an initial focus on exfiltration. Most of the tools in there are FOSS but not all (we have dashboards for some popular products in addition to notebooks.)
 
-There are also a few private projects. We're working on a tuned model for the PROTOSTAR project and an AI based threat hunting and detection component for the OpenDR project. We're also working on an AI based insider threat hunting and detection project. These will probably never be open sourced but please hit us up if you would like to use them: info at opendr dot io.
+There are also a few private projects. We're working on a tuned model for the PROTOSTAR project and an AI based threat hunting and detection component for the OpenDR project. We're also working on an AI based insider threat hunting and detection project. These will probably never be open sourced but please hit us up if you would like to use them: info at `info at opendr dot io.`
+
+
