@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[OpenDR](https://github.com/opendr-io) is a think-tank comprised of longtime security researchers and data scientists, with north of two centuries combined experience, active in the research community. Whenever we have some time, we start building. We have several current projects and products:
+OpenDR is a think-tank comprised of longtime security researchers and data scientists, with north of two centuries combined experience, active in the research community. Whenever we have some time, we start building. We have several current projects and products:
 
 [CAUSALITY](https://github.com/opendr-io/causality) contains the output of a model predicting which CVEs are going to blow up and get added to one or more watch-lists. This is the project presented at OWASP BASC and VulnCon 2025. Over the past year the model has made more than 150 correct public predictions with early warning times as long as nine montbs. This early wanring time allows us to actually shift "left of boom" and live our best lives. Every incident response we turn into incident avoidance gives time back to busy DevOPS teams while removing business risk.
 
