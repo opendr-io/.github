@@ -10,7 +10,7 @@ If you're looking for the thing we presented at DEF CON / BLACKHAT,that would be
 
 If you're looking for the project presented at RSA 2026 and other cons, [DUNE](https://github.com/opendr-io/dune) is a project for hunting detection resistant threat activity using ML. It has been proven and battle tested at great scale and is finding threat activity undetected by major name commercial security products. Unlike most products that require shipping vast quantities of data to a vendor cloud, DUNE can bring the detections and hunts to the data.Most of the tools in there are FOSS but not all (we have dashboards for some popular products in addition to notebooks.)
 
-[SMITH](https://github.com/agentic-park/smith) is an interactive and tool-equipped threat hunting agent pack that acts like a security detail for AI developers. SMITH finds threat activity that often goes unnoticed and pairs with you to detect the few actions among millions that are due to prompt injections or malicious code.
+[SMITH](https://github.com/opendr-io/agentic-park/tree/main/smith) is an interactive and tool-equipped threat hunting agent pack that acts like a security detail for AI developers. SMITH finds threat activity that often goes unnoticed and pairs with you to detect the few actions among millions that are due to prompt injections or malicious code.
 
 There are also a few private projects. We're working on a tuned model for the PROTOSTAR project and an AI based threat hunting and detection component for the OpenDR project. We're also working on an AI based insider threat hunting and detection project. These will probably never be open sourced but please hit us up if you would like to use them: info at `info at opendr dot io.`
 
