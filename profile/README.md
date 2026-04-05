@@ -1,4 +1,4 @@
-### Hi there 👋         |        [Website](https://opendr.io)         |         [Blog](https://opendrio.wordpress.com/)
+### Hi there 👋         |        [opendr.io](https://opendr.io)         |         [[Blog](https://opendrio.blog/)](https://opendrio.wordpress.com/)
 
 OpenDR is a think-tank comprised of longtime security researchers and data scientists, with north of two centuries combined experience, active in the research community. Whenever we have some time, we start building. We have several current projects and products:
 
