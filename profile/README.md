@@ -1,6 +1,8 @@
 ### Hi there 👋         |        [opendr.io](https://opendr.io)         |         [opendrio.blog](https://opendrio.wordpress.com/)
 
-OpenDR is a think-tank comprised of longtime security researchers and data scientists, with north of two centuries combined experience, active in the research community. Whenever we have some time, we start building. We have several current projects and products:
+ODE (OpenDR) is a think-tank comprised of longtime security researchers and data scientists. By coincidence, a rare set of circumstances allowed us to come together in early 2024. We asked ourselves what we would build for ourselves, given a blank slate, to apply AI and ML to cybersecurity. This set of projects is the result.
+
+We have several current projects and products:
 
 [CAUSALITY](https://github.com/opendr-io/causality) This is the project presented at OWASP BASC, BSides SW and VulnCon 2025; and RSAC 2026. The difference between explotation prediction and detection is akin to the difference between detecting a missile launch or a detonation. The CAUSALITY model identifies and predicts that most of the KEV CVEs will come from a small subset of the population. CAUSALITY has made over 200 provably correct public KEV predictions with early warning times ranging from weeks to months - to even a year in some cases.
 
