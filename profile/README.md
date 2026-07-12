@@ -10,7 +10,7 @@ If you're looking for the project presented at RSAC 2024, CactusCon, Boston Hack
 
 [OpenDR](https://github.com/opendr-io/opendr) Sometimes a hunt leads to an endpoint with no instrumentation or EDR tooling. We still need to put something to the left of the equals sign and waiting for tooling or technicians is not always prudent. OpenDR can go places conventional EDR tooling can't go because it needs only Python 3.x. The insider threat hunting subsystem is not open sourced. 
 
-If you're looking for the thing we released at DEF CON / BLACKHAT MEA,that would be [PROTOSTAR](https://github.com/opendr-io/protostar-web) (originally code named 'skynet') PROTOSTAR is our alternative to the "agentic SOC" products. Not all of the project is open sourced. We did a release at DEF CON 2024, presented twice at Blackhat MEA, and are continuing to present at cons.
+If you're looking for the thing we released at DEF CON / BLACKHAT MEA,that would be [PROTOSTAR](https://github.com/opendr-io/protostar-web) PROTOSTAR is our alternative to the "agentic SOC" products. Not all of the project is open sourced. We did a release at DEF CON 2024, presented twice at Blackhat MEA, and are continuing to present at cons.
 
 [SMITH](https://github.com/opendr-io/agentic-park/tree/main/smith) is an interactive and tool-equipped threat hunting agent pack that unfortuantely has been reverted to private status temporarily. It will be back soon with more features, subsystems, and things. 
 
