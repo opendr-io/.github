@@ -12,4 +12,4 @@ If you're looking for the project presented at RSAC 2024, CactusCon, Boston Hack
 
 If you're looking for the thing we released at DEF CON / BLACKHAT MEA,that would be [PROTOSTAR](https://github.com/opendr-io/protostar-web) PROTOSTAR is our alternative to the "agentic SOC" products. Not all of the project is open sourced. We did a release at DEF CON 2024, presented twice at Blackhat MEA, and are continuing to present at cons.
 
-[SMITH](https://github.com/opendr-io/agentic-park/tree/main/smith) is an interactive and tool-equipped threat hunting agent pack that unfortuantely has been reverted to private status temporarily. It will be back soon with more features, subsystems, and things. 
+SMITH is tool-equipped hunting agent pack that unfortuantely has been reverted to private status temporarily. It will be back soon with more features, subsystems, and things. 
