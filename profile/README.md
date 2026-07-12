@@ -1,4 +1,4 @@
-### Hi there 👋         |        [opendr.io](https://opendr.io)         |         [opendrio.blog](https://opendrio.wordpress.com/)
+### Hi there 👋         |        [opendr.io](https://opendr.io)         |         [opendrio.blog](https://opendrio.wordpress.com/)    |    [Sponsors](https://github.com/sponsors/opendr-io)
 
 ODR (OpenDR) is a think-tank comprised of longtime security researchers and data scientists. By coincidence, a rare set of circumstances allowed us to come together in early 2024. We asked ourselves what we would build for ourselves, given a blank slate, to apply AI and ML to cybersecurity. This set of projects is the result:
 
